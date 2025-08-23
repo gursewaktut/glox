@@ -1,0 +1,3 @@
+module lox/lox
+
+go 1.24.4
